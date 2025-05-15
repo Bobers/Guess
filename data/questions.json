@@ -1,0 +1,12 @@
+[
+  { "_id": "q_budget_constrained", "text": "Is your customer budget-conscious or price-sensitive?", "order": 3 },
+  { "_id": "q_technical_background", "text": "Does your customer have a strong technical background?", "order": 4 },
+  { "_id": "q_large_company", "text": "Does your customer work at a large company (500+ employees)?", "order": 1 },
+  { "_id": "q_decision_maker", "text": "Is your customer the primary decision-maker for purchases?", "order": 2 },
+  { "_id": "q_technology_industry", "text": "Does your customer work in the technology industry?", "order": 5 },
+  { "_id": "q_growth_stage", "text": "Is your customer at a company focused on rapid growth?", "order": 6 },
+  { "_id": "q_marketing_role", "text": "Is your customer primarily focused on marketing functions?", "order": 7 },
+  { "_id": "q_need_compliance", "text": "Does your customer work in a heavily regulated industry?", "order": 8 },
+  { "_id": "q_small_team", "text": "Does your customer work with a small team (fewer than 10 people)?", "order": 9 },
+  { "_id": "q_data_driven", "text": "Is your customer particularly focused on data-driven decision making?", "order": 10 }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "technical_startup_founder",
+    "name": "Technical Startup Founder",
+    "description": "Technical co-founder or CTO at an early-stage startup with limited resources",
+    "attributes": {
+      "company_size": "small",
+      "industry": "technology",
+      "technical_background": true
+    },
+    "marketing_recommendations": [
+      "Focus on ROI and cost-efficiency",
+      "Highlight technical specifications and integration capabilities",
+      "Emphasize quick implementation with minimal resources",
+      "Showcase how your solution scales with their growth"
+    ],
+    "answers": {
+      "q_budget_constrained": "yes",
+      "q_technical_background": "yes",
+      "q_large_company": "no",
+      "q_decision_maker": "yes",
+      "q_technology_industry": "yes",
+      "q_growth_stage": "yes",
+      "q_marketing_role": "no",
+      "q_need_compliance": "no",
+      "q_small_team": "yes",
+      "q_data_driven": "yes"
+    }
+  },
+  {
+    "_id": "enterprise_it_director",
+    "name": "Enterprise IT Director",
+    "description": "IT decision-maker at a large established corporation with formal purchasing processes",
+    "attributes": {
+      "company_size": "large",
+      "industry": "varied",
+      "technical_background": true
+    },
+    "marketing_recommendations": [
+      "Emphasize enterprise-grade security and compliance",
+      "Focus on integration with existing systems",
+      "Provide case studies from similar large organizations",
+      "Address procurement process and multi-stakeholder decision making"
+    ],
+    "answers": {
+      "q_budget_constrained": "no",
+      "q_technical_background": "yes",
+      "q_large_company": "yes",
+      "q_decision_maker": "yes",
+      "q_technology_industry": "no",
+      "q_growth_stage": "no",
+      "q_marketing_role": "no",
+      "q_need_compliance": "yes",
+      "q_small_team": "no",
+      "q_data_driven": "yes"
+    }
+  },
+  {
+    "_id": "smb_owner",
+    "name": "Small Business Owner",
+    "description": "Owner-operator of a traditional small business focused on steady operations",
+    "attributes": {
+      "company_size": "small",
+      "industry": "varied",
+      "technical_background": false
+    },
+    "marketing_recommendations": [
+      "Focus on simplicity and ease of use",
+      "Emphasize low maintenance and support availability",
+      "Show clear ROI with minimal technical jargon",
+      "Highlight success stories from similar small businesses"
+    ],
+    "answers": {
+      "q_budget_constrained": "yes",
+      "q_technical_background": "no",
+      "q_large_company": "no",
+      "q_decision_maker": "yes",
+      "q_technology_industry": "no",
+      "q_growth_stage": "no",
+      "q_marketing_role": "no",
+      "q_need_compliance": "no",
+      "q_small_team": "yes",
+      "q_data_driven": "no"
+    }
+  },
+  {
+    "_id": "marketing_director",
+    "name": "Marketing Director",
+    "description": "Senior marketing leader focused on growth and customer acquisition",
+    "attributes": {
+      "company_size": "medium",
+      "industry": "varied",
+      "technical_background": false
+    },
+    "marketing_recommendations": [
+      "Focus on ROI and customer acquisition metrics",
+      "Emphasize ease of integration with marketing tech stack",
+      "Provide marketing-specific case studies and benchmarks",
+      "Highlight reporting features and data visualization"
+    ],
+    "answers": {
+      "q_budget_constrained": "yes",
+      "q_technical_background": "no",
+      "q_large_company": "no",
+      "q_decision_maker": "yes",
+      "q_technology_industry": "no",
+      "q_growth_stage": "yes",
+      "q_marketing_role": "yes",
+      "q_need_compliance": "no",
+      "q_small_team": "no",
+      "q_data_driven": "yes"
+    }
+  },
+  {
+    "_id": "healthcare_administrator",
+    "name": "Healthcare Administrator",
+    "description": "Administrative decision-maker in a healthcare organization with strict compliance requirements",
+    "attributes": {
+      "company_size": "medium",
+      "industry": "healthcare",
+      "technical_background": false
+    },
+    "marketing_recommendations": [
+      "Emphasize HIPAA compliance and data security",
+      "Focus on patient outcomes and care improvement",
+      "Highlight ease of use for non-technical staff",
+      "Provide healthcare-specific implementation roadmaps"
+    ],
+    "answers": {
+      "q_budget_constrained": "yes",
+      "q_technical_background": "no",
+      "q_large_company": "yes",
+      "q_decision_maker": "yes",
+      "q_technology_industry": "no",
+      "q_growth_stage": "no",
+      "q_marketing_role": "no",
+      "q_need_compliance": "yes",
+      "q_small_team": "no",
+      "q_data_driven": "yes"
+    }
+  }
+]
